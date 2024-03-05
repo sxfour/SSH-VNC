@@ -6,4 +6,8 @@
    
 # Автоматизированное подключение через bat
 Запуск конфигурации из putty -> Запуск vnc -> Проверка на открытие процесса, если закрыто - выход. 
-https://github.com/sxfour/SSH-VNC/assets/112577182/bcebdffc-6910-40fb-8ab1-ac98d8c89fb3
+
+
+
+https://github.com/sxfour/SSH-VNC/assets/112577182/0b93de33-96cb-4a4e-a0c3-b40ccd352a81
+
